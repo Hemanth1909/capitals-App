@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.select-container {
+  display: flex;
+  margin: 10px;
+}
+
+.select-text {
+  margin-left: 15px;
+}
+
+.all-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  background-color: #f8fafc;
+  border-radius: 15px;
+  padding: 40px;
+}
+
+.capital-name {
+  font-size: 25px;
+}
